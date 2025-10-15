@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/model"
 )
 
 func LoadCertificates() (int, error) {

@@ -24,7 +24,7 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/CorentinB/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

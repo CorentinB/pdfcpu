@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/types"
 )
 
 const (

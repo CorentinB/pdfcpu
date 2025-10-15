@@ -17,11 +17,11 @@
 package primitives
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/format"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/color"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/draw"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/format"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/model"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

@@ -23,11 +23,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/CorentinB/pdfcpu/pkg/api"
+	"github.com/CorentinB/pdfcpu/pkg/cli"
+	"github.com/CorentinB/pdfcpu/pkg/log"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/model"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/types"
 )
 
 var inDir, outDir, resDir, fontDir, samplesDir string

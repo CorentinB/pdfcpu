@@ -20,7 +20,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

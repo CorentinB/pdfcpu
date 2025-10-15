@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/CorentinB/pdfcpu/pkg/api"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu"
+	"github.com/CorentinB/pdfcpu/pkg/pdfcpu/types"
 )
 
 func TestInsertRemovePages(t *testing.T) {
